@@ -1,6 +1,6 @@
 # Portfolio Optimization Under Constraints – Financial Analytics
 
-This project investigates the performance of three portfolio optimization strategies under different investment constraints using historical equity return data from the Ken French Data Library (10 sector industries). Specifically, it compares:
+This project investigates the performance of three portfolio optimization strategies under different investment constraints using historical equity return data from the Ken French Data Library (30 sector industries). Specifically, it compares:
 
 - MV (Unconstrained Mean-Variance Optimization)
 - NSMV (No-Shorting Constraint)
